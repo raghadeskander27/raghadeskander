@@ -31,4 +31,4 @@ Dedicated to bridging data engineering, machine intelligence, and embedded hardw
 
 ### 📬 Connect with Me
 - **LinkedIn:** [Raghad Eskander](https://www.linkedin.com/in/raghad-eskander-a46945393)
-- **GitHub:** [@r15672209-pixel](https://github.com/raghadeskander)
+- **GitHub:** [raghadeskander](https://github.com/raghadeskander)
